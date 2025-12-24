@@ -1,50 +1,42 @@
 # Hi there, I'm Adem Youssfi 👋 
 
 ### Software Engineer & AI Researcher
-*Focusing on High-Performance Systems, Edge AI, and Assistive Technologies.*
+*Specializing in High-Performance Systems, Secure Microservices, and AI Optimization.*
 
 ---
 
 ## 🚀 Engineering Vision
-I bridge the gap between complex AI research and production-grade software. My work focuses on building scalable microservices, optimizing deep learning inference for edge devices, and creating human-centered technology that addresses real-world accessibility challenges.
+I bridge the gap between complex AI research and production-grade software. My approach is rooted in **Solid System Design** and **Design Patterns**, ensuring that high-performance AI systems are also secure, scalable, and maintainable.
 
-- 🔭 **Current Focus:** Optimizing Real-time Computer Vision pipelines using C++ and TensorRT.
-- 🎓 **Academic Target:** Pursuing advanced research in Computer Science at **world-class research institutions** specializing in AI & Systems Engineering.
-- 🛠️ **System Architect:** Experienced in decoupling heavy AI workloads using gRPC and FastAPI for distributed environments.
+- 🔭 **Current Focus:** Optimizing Real-time Computer Vision pipelines and Secure Backend Architectures.
+- 🎓 **Academic Target:** Pursuing advanced research in Computer Science at **world-class research institutions**.
+- 🛠️ **System Architect:** Experienced in designing distributed systems using **Java/Spring (Security)** and **C++/Python**, decoupled via **gRPC**.
 
 ---
 
 ## 🏗️ Featured Engineering Portfolios
 
 ### ⚽ [Coach Pro Ecosystem](https://github.com/Ad2m1109/High-Performance-Football-Analysis-Inference-Engine)
-A comprehensive multi-service football analytics platform.
-- **Inference Engine:** C++17, TensorRT, CUDA (Sub-millisecond latency).
-- **Orchestrator:** FastAPI, gRPC, MySQL (Asynchronous job lifecycle).
-- **Client:** Flutter (Advanced data visualization & multi-language UI).
+A comprehensive multi-service platform demonstrating high-performance C++ and secure orchestration.
+- **Inference Engine:** C++17, TensorRT, and CUDA (High-throughput inference).
+- **Backend & Security:** Java/Spring Security for job lifecycle management and secure data persistence.
+- **Communication:** Low-latency inter-service communication via gRPC and Protocol Buffers.
 
 ### 🤟 [Sign Language Framework](https://github.com/Ad2m1109/A-Benchmarking-Framework-for-Multi-Dataset-Sign-Language-Recognition)
-A modular research framework engineered for benchmarking CNN models across diverse sign language datasets.
+A research framework built on **Object-Oriented Design Patterns** (Factory, Strategy, Observer) for model benchmarking across diverse datasets.
 
 ### 🧠 [Harmonia](https://github.com/Ad2m1109/Harmonia)
-An AI-powered assistive platform providing cognitive support and real-time monitoring for Alzheimer's patients and caregivers.
+An AI-powered assistive platform with a focus on secure user data management and real-time monitoring for healthcare applications.
 
 ---
 
-## 🛠️ Technical Toolbox
+## ✍️ Technical Blog & Articles
+I actively write about engineering challenges and architectural deep dives to document the intersection of theory and practice:
+- **C++ Optimization** for AI inference.
+- **System Design Patterns** in distributed environments.
+- **Secure Backend Implementation** using modern frameworks.
 
-| Category | Technologies |
-| --- | --- |
-| **Languages** | C++, Python, Dart, SQL |
-| **AI & CV** | TensorFlow, Keras, OpenCV, YOLOv8, TensorRT, MediaPipe |
-| **Backend** | FastAPI, Flask, gRPC, Protocol Buffers |
-| **Mobile** | Flutter (Multi-language & RTL support) |
-| **Infrastructure** | CUDA, Docker, GitHub Actions, Linux (Ubuntu), Render |
-
----
-
-## ✍️ Technical Writing & Portfolio
-I document my architectural decisions and performance benchmarks on my engineering hub:
-🌐 **[Official Engineering Portfolio](https://ademyoussfi.onrender.com/)**
+🌐 **[Visit My Engineering Hub & Blog](https://ademyoussfi.onrender.com/)**
 
 ---
 
@@ -53,4 +45,4 @@ I document my architectural decisions and performance benchmarks on my engineeri
 - **Email:** ademyoussfi57@gmail.com
 
 ---
-*“Documenting the intersection of theoretical computer science and practical system implementation.”*
+*“Building secure, scalable, and intelligent systems through rigorous engineering.”*
