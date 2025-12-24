@@ -1,4 +1,4 @@
-# Hi there, I'm Adem Youssfi 👋 
+[# Hi there, I'm Adem Youssfi 👋 
 
 ### Software Engineer & AI Researcher
 *Specializing in High-Performance Systems, Secure Microservices, and AI Optimization.*
@@ -46,3 +46,4 @@ I actively write about engineering challenges and architectural deep dives to do
 
 ---
 *“Building secure, scalable, and intelligent systems through rigorous engineering.”*
+](https://behindthecodebyadem.blogspot.com/)
