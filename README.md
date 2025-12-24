@@ -6,27 +6,27 @@
 ---
 
 ## 🚀 Engineering Vision
-I bridge the gap between complex AI research and production-grade software. My work focuses on building scalable microservices, optimizing deep learning inference for edge devices, and creating human-centered technology.
+I bridge the gap between complex AI research and production-grade software. My work focuses on building scalable microservices, optimizing deep learning inference for edge devices, and creating human-centered technology that addresses real-world accessibility challenges.
 
 - 🔭 **Current Focus:** Optimizing Real-time Computer Vision pipelines using C++ and TensorRT.
-- 🎓 **Academic Target:** Pursuing advanced research in Computer Science (Targeting UM & ZJU).
-- 🛠️ **System Architect:** Experienced in decoupling heavy AI workloads using gRPC and FastAPI.
+- 🎓 **Academic Target:** Pursuing advanced research in Computer Science at **world-class research institutions** specializing in AI & Systems Engineering.
+- 🛠️ **System Architect:** Experienced in decoupling heavy AI workloads using gRPC and FastAPI for distributed environments.
 
 ---
 
-## 🏗️ Key Architectural Portfolios
+## 🏗️ Featured Engineering Portfolios
 
 ### ⚽ [Coach Pro Ecosystem](https://github.com/Ad2m1109/High-Performance-Football-Analysis-Inference-Engine)
-A full-scale football analytics platform.
-- **Engine:** C++17, TensorRT, CUDA (High-throughput inference).
-- **Orchestrator:** FastAPI, gRPC, MySQL (System logic).
-- **Client:** Flutter (Mobile Analytics).
+A comprehensive multi-service football analytics platform.
+- **Inference Engine:** C++17, TensorRT, CUDA (Sub-millisecond latency).
+- **Orchestrator:** FastAPI, gRPC, MySQL (Asynchronous job lifecycle).
+- **Client:** Flutter (Advanced data visualization & multi-language UI).
 
 ### 🤟 [Sign Language Framework](https://github.com/Ad2m1109/A-Benchmarking-Framework-for-Multi-Dataset-Sign-Language-Recognition)
-A modular research framework for benchmarking CNN models across multiple sign language datasets.
+A modular research framework engineered for benchmarking CNN models across diverse sign language datasets.
 
 ### 🧠 [Harmonia](https://github.com/Ad2m1109/Harmonia)
-An AI-powered assistive platform for Alzheimer's patient care and monitoring.
+An AI-powered assistive platform providing cognitive support and real-time monitoring for Alzheimer's patients and caregivers.
 
 ---
 
@@ -38,12 +38,12 @@ An AI-powered assistive platform for Alzheimer's patient care and monitoring.
 | **AI & CV** | TensorFlow, Keras, OpenCV, YOLOv8, TensorRT, MediaPipe |
 | **Backend** | FastAPI, Flask, gRPC, Protocol Buffers |
 | **Mobile** | Flutter (Multi-language & RTL support) |
-| **DevOps** | Docker, GitHub Actions, Linux (Ubuntu), Render |
+| **Infrastructure** | CUDA, Docker, GitHub Actions, Linux (Ubuntu), Render |
 
 ---
 
 ## ✍️ Technical Writing & Portfolio
-Check out my detailed project breakdowns and engineering blog:
+I document my architectural decisions and performance benchmarks on my engineering hub:
 🌐 **[Official Engineering Portfolio](https://ademyoussfi.onrender.com/)**
 
 ---
