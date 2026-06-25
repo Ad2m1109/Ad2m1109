@@ -1,73 +1,120 @@
-# Hi, I’m Adem Youssfi 👋
+# Hi, I'm Adem Youssfi 👋
 
-### Software Engineer (AI / Computer Vision / Mobile Systems)
-**System-Oriented Engineer — Real-Time AI — Mobile & Backend Integration**
+### System-Oriented Software Engineer
 
-I design and build **production-grade AI systems** with a strong focus on **real-time performance**, **clean architecture**, and **end-to-end system integration**.  
-My work spans from low-level **C++ inference engines** to **mobile and backend systems** powering real-world applications.
+I build **production-grade software systems** that combine artificial intelligence, backend engineering, and mobile technologies into reliable real-world applications.
 
----
+My work ranges from **high-performance C++ inference engines** and **computer vision pipelines** to **scalable backend architectures** and **cross-platform mobile applications**.
 
-## 🚀 Engineering Focus
-- 🔭 **Current Focus:** Real-time Computer Vision pipelines, C++ inference optimization, and distributed backend systems.
-- 🧠 **Core Strength:** Translating complex AI research into **scalable, maintainable production systems**.
-- 🏗️ **System Design:** Strong background in object-oriented design, design patterns, and API-driven architectures.
+I enjoy transforming complex ideas into maintainable systems designed for performance, scalability, and long-term evolution.
 
 ---
 
-## 🧰 Technical Stack (Core)
-- **AI / Computer Vision:** OpenCV, TensorRT, MediaPipe, Bi-LSTM, real-time inference
-- **Backend & Systems:** FastAPI, Spring Boot, Node.js, gRPC, Socket.io
-- **Mobile:** Flutter (Advanced), Android (Java)
-- **Languages:** Python, C++, Java (21+), JavaScript, Dart
-- **Engineering Practices:** UML, clean architecture, Git, Agile
+## Engineering Interests
+
+* 🧠 Artificial Intelligence & Computer Vision
+* ⚙️ Backend Architecture & Distributed Systems
+* 🚀 High-Performance Computing
+* 📱 Cross-Platform Mobile Development
+* 🏗️ System Design & Software Architecture
+* ✍️ Technical Writing & Knowledge Sharing
 
 ---
 
-## 🏗️ Selected Engineering Projects
+## Tech Stack
 
-### ⚽ Coach Pro — Real-Time Football Analytics Platform
-**C++ / TensorRT / FastAPI / Flutter**
-- High-performance C++ inference engine achieving **real-time player detection (95% accuracy)**.
-- FastAPI-based system orchestrator handling live video streams and analytics workflows.
-- Flutter dashboard delivering real-time tactical insights to coaches.
+**Languages**
 
-🔗 https://github.com/Ad2m1109/High-Performance-Football-Analysis-Inference-Engine
+Python • C++ • Java • Dart • JavaScript • SQL
 
----
+**AI & Computer Vision**
 
-### 🤟 HandTalk — Real-Time Sign Language Recognition
-**Computer Vision / Temporal Modeling**
-- End-to-end sign language recognition system using **Bi-LSTM** and **MediaPipe**.
-- Achieved **<200ms inference latency** in real-time scenarios.
-- Built a modular benchmarking framework for multi-dataset evaluation.
+OpenCV • TensorRT • MediaPipe • Bi-LSTM • Real-Time Inference
 
-🔗 https://github.com/Ad2m1109/A-Benchmarking-Framework-for-Multi-Dataset-Sign-Language-Recognition
+**Backend**
 
----
+FastAPI • Spring Boot • Node.js • gRPC • REST APIs • Socket.IO
 
-### 🧠 Harmonia — Mobile Healthcare Application
-**Flutter / Privacy-Focused Design**
-- AI-assisted mobile application for Alzheimer’s patient support.
-- Offline-first architecture with strong accessibility and privacy considerations.
-- Recognized with a GitHub star for code quality and impact.
+**Mobile**
 
-🔗 https://github.com/Ad2m1109/Harmonia
+Flutter • Android (Java)
+
+**Engineering**
+
+Clean Architecture • Design Patterns • SOLID • UML • Git • Agile
 
 ---
 
-## ✍️ Technical Writing & Architecture Notes
-I regularly document system design decisions and engineering deep dives:
+# Featured Projects
 
-- 🌐 **Portfolio:** https://ademyoussfi.onrender.com  
-- 📝 **Technical Blog:** https://behindthecodebyadem.blogspot.com  
+## ⚽ Coach Pro
+
+A real-time football analytics platform powered by AI.
+
+* High-performance TensorRT inference engine
+* C++ computer vision pipeline
+* FastAPI orchestration services
+* Flutter analytics dashboard
+
+→ Repository
 
 ---
 
-## 📫 Contact
-- **Email:** ademyoussfi57@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/adem-youssfi-2289672a4  
+## 🤟 HandTalk
+
+Real-time sign language recognition system.
+
+* MediaPipe
+* Bi-LSTM
+* Temporal modeling
+* Multi-dataset benchmarking
+
+→ Repository
 
 ---
 
-*Building real-time, scalable systems through strong engineering fundamentals.*
+## 🧠 Harmonia
+
+Privacy-focused healthcare mobile application.
+
+* Flutter
+* Offline-first architecture
+* Accessibility-first design
+* AI-assisted patient support
+
+→ Repository
+
+---
+
+# Beyond Coding
+
+I believe engineering is more than writing code.
+
+I enjoy documenting ideas, exploring new technologies, and understanding how systems work under the hood. Writing technical articles helps me organize my thoughts, challenge my assumptions, and continue learning.
+
+As I often say:
+
+> **Learning is an infinite loop.**
+
+---
+
+# Find Me
+
+🌐 **Portfolio**
+Coming soon: https://ademyoussfi.com
+
+💻 **GitHub**
+https://github.com/Ad2m1109
+
+✍️ **Technical Blog**
+https://behindthecodebyadem.blogspot.com
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/adem-youssfi-2289672a4
+
+📫 **Email**
+[adem@ademyoussfi.com](mailto:adem@ademyoussfi.com) *(or your Gmail until the custom domain is ready)*
+
+---
+
+> *Building intelligent systems through curiosity, engineering, and continuous learning.*
